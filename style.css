@@ -1,0 +1,126 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: aqua
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    color: darkmagenta;
+}
+
+.no-style {
+    text-decoration: none;
+}
+
+.boxes {
+    display: block;
+    padding: 4em;
+    margin: 5em;
+    border: 2px solid black;
+    border-radius: 250px;
+    width: 20%;
+}
+
+#box1 {
+    background-color: red;
+}
+
+#box2 {
+    background-color: purple;
+}
+
+#box3 {
+    background-color: blue
+}
+
+#box4 {
+    background-color: coral
+}
+
+.image {
+    width: 1em;
+    height: 1em;
+    background-color: grey;
+}
+
+a:hover { 
+    color: darkgreen;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.accent {
+    font-weight: bold;
+    color: blue;
+}
+
+/* div {
+    width: 20%;
+} */
+
+.div1 {
+    background-color: rgb(255, 0, 128)
+}
+
+.div2 {
+    background-color: darkgreen
+}
+
+.div3 {
+    background-color: white
+}
+
+.div4 {
+    background-color: yellow
+}
+
+h1 {
+    color:darkred
+}
+
+.top3 {
+    color: darkblue
+}
+
+.top5 {
+    color: whitesmoke;
+}
+
+#show1 {
+    color: hotpink;
+}
+
+#show2 {
+    color: darkblue;
+}
+
+#show3 {
+    color: darkorange;
+}
+
+#show4 {
+    color: darkmagenta
+}
+
+#show5 {
+    color: darkcyan;
+}
+
+.friends {
+    color: royalblue
+}
+
+.travel {
+    color: pink;
+}
+
+.restaurants {
+    color: yellow
+}
+
+.friends, .travel, .restaurants {
+    border: 2px solid black; 
+}
